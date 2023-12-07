@@ -1,7 +1,7 @@
 {
-    "name": "Farhan",
-    "short_name": "Farhan",
-    "start_url": "./",
+    "name": "Hamza",
+    "short_name": "Hamza",
+    "start_url": ".",
     "display": "standalone",
     "background_color": "#000000",
     "theme_color": "#0175C2",
